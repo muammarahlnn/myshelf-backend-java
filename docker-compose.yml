@@ -1,5 +1,3 @@
-version: '3.5'
-
 services:
   myshelf-backend-postgres:
     container_name: myshelf-api-postgres
