@@ -7,4 +7,4 @@ services:
     environment:
       POSTGRES_PASSWORD: ardnn
       POSTGRES_USER: ardnn
-      POSTGRES_DB: myshelf
+      POSTGRES_DB: myshelf_api
